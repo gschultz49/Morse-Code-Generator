@@ -5,6 +5,12 @@ Proper LED setup can be completed by following the example from stillborn86 at
 
 https://www.youtube.com/watch?v=igvDgUnh8vg
 
+Learn Morse Code:
+
+https://www.raspberrypi.org/learning/morse-code-virtual-radio/worksheet/ 
+
+
+
 # Notes
 This code places the LED at pin 7 on the Raspberry Pi, for individual purposes this may vary
 
